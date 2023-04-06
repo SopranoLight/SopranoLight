@@ -1,7 +1,7 @@
                                                    ***Welcome To My GitHub Profile !****
 
 ### 
-#Hi there 👋, my name is Andrii,
+#Hi there 👋, my name is Andrii
 ##I am 20 years old
 ### I'm a Junior Front-End Devoloper from Lviv.
 coderman.gif
