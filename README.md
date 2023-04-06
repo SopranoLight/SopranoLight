@@ -1,11 +1,10 @@
-                                                          ***Welcome To My GitHub Profile !****
+                                                   ***Welcome To My GitHub Profile !****
 
 ### 
 #Hi there 👋, my name is Andrii,
 ##I am 20 years old
 ### I'm a Junior Front-End Devoloper from Lviv.
-#### Check my website: [andrian-kars.com](https://andrian-kars.com/)
-### Languages and Technologies 
+#### Languages and Technologies 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
